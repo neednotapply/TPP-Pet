@@ -128,6 +128,6 @@ Once selected, set **The Pirate's Plunder** as your active pet.
 ## Troubleshooting
 
 * Ensure the destination folder is named exactly `TPP-Pet`.
-* Ensure `pet.json` contains `"id": "TPP-Pet"`.
+* Ensure `pet.json` contains `"id": "tpp-pet"`.
 * Do not place `pet.json` inside an extra nested folder.
 * Restart Codex or OpenPets after copying the files.
